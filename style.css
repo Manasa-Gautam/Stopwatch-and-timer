@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #e0cf32;
+    padding: 20px;
+}
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    background-color: rgba(202, 176, 26, 0.952);
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgb(207, 190, 92);
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    margin-top: 0;
+}
+
+#timer-display,
+#stopwatch-display {
+    text-align: center;
+    font-size: 48px;
+    margin-bottom: 20px;
+}
+
+#timer-buttons,
+#stopwatch-buttons {
+    text-align: center;
+}
+
+button {
+    padding: 10px 20px;
+    margin: 5px;
+}
